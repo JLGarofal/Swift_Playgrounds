@@ -1,6 +1,8 @@
 # WordCount
 Authored by JL Garofalo (copyright 2016)
 
+*Written using Swift 2.2*
+
 ## Purpose
 This Swift Playground code reads from a text file in its resource directory and calculates frequency of each alphanumeric word in the file. 
 It then calculates and reports the most frequently used word.
